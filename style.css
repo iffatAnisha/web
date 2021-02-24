@@ -1,19 +1,31 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0
+	  color: darkmagenta
+	  font-family: Georgia, serif;
+}
+
 body {
     background-color: antiquewhite;
+	    border: solid midnightblue
+		     font-family: Georgia, serif;
+}
+
+title {
+	color: midnightblue:
+}
+
+h1 {
+    color: midnightblue;
 }
 
 h2 {
-    color: midnightblue;
+	color: midnightblue;
 }
 
 p {
 	color: darkmagenta;
 }
 
-body {
-	border: solid midnightblue;
-}
 
-body {
-	font: "Fira Sans", serif;
-}
