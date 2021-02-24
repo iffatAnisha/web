@@ -1,11 +1,11 @@
 li { 
-	display: inline;
+	display: left;
 }
 
 a {
 	display: block;
 	padding: 9px;
-	background-color: darkmagenta;
+	background-color: PapayaWhip;
 	font-size: 15px;
 }
 	
