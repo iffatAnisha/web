@@ -1,11 +1,11 @@
 li { 
-	float: right;
+	display:inline;
 }
 
 a {
 	display: block;
 	padding: 9px;
-	background-color: antiquewhite;
+	background-color: darkmagenta;
 	font-size: 20px;
 }
 	
