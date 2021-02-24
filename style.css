@@ -1,12 +1,12 @@
 li { 
-	display:inline;
+	display: inline;
 }
 
 a {
 	display: block;
 	padding: 9px;
 	background-color: darkmagenta;
-	font-size: 20px;
+	font-size: 15px;
 }
 	
 
